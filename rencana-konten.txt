@@ -2,6 +2,8 @@ rencana konten
   1. belajar javascript
     implementasi ke website dan mengetahui framework
   2. belajar laravel
+     php framework
   3. interview
   5. dokumentasi
   6. belajar struktur data
+  7. python
