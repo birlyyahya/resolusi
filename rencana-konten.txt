@@ -3,5 +3,8 @@ rencana konten
     implementasi ke website dan mengetahui framework
     framework react
   2. belajar laravel
+     php framework
+  3. interview
   5. dokumentasi
   6. belajar struktur data
+  7. python
