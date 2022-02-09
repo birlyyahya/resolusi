@@ -1,6 +1,7 @@
 rencana konten
   1. belajar javascript
     implementasi ke website dan mengetahui framework
+    framework react
   2. belajar laravel
      php framework
   3. interview
