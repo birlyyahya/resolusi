@@ -4,3 +4,4 @@ rencana konten
   2. belajar laravel
   3. interview
   5. dokumentasi
+  6. belajar struktur data
